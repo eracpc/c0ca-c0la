@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: La Geekepedia de Ernesto y Roberto Aguilar
+Main-Class: Bienvenida
+X-COMMENT:  Curso Java
